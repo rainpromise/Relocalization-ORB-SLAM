@@ -1,0 +1,9 @@
+build/
+ORBvoc.txt
+Vocabulary/
+Examples/ROS/ORB_SLAM2-build/
+Examples/ROS/ORB_SLAM2/build/
+Examples/ROS/ORB_SLAM2/ORBvoc.bin
+Examples/ROS/ORB_SLAM2/ORBvoc.txt
+Thirdparty/DBoW2/build/
+Thirdparty/g2o/build
